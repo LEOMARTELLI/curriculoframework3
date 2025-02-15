@@ -3,8 +3,8 @@
 Este é um currículo pessoal desenvolvido em HTML e CSS, com um design moderno e responsivo para destacar minhas experiências e habilidades.
 
 ## 📌 Tecnologias Utilizadas
-- HTML5
-- CSS3
+- HTML
+- CSS
 
 ## 🎨 Layout
 - Tema escuro com tons suaves para melhor leitura
