@@ -29,5 +29,4 @@ Este é um currículo pessoal desenvolvido em HTML e CSS, com um design moderno 
 - **Email:** martellileo02@gmail.com
 - **LinkedIn:** [Perfil](http://www.linkedin.com/in/leonardomartellia0301221a)
 
----
-Feito com ❤️ por Leonardo Martelli
+
